@@ -1,4 +1,4 @@
-# Fortune Cookies
+# Haiku
 > Have you ever heard of haikus?
 > http://103.167.136.89:10001/
 
