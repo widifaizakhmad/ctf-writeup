@@ -5,7 +5,7 @@
 * NIM   : 1303210032
 
 ## List Challenge
-List Challenge I solved
+List Challenge I solved and not solved
 
 ### Week 1
 | Category | Challenge |
