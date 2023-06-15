@@ -11,6 +11,6 @@ List Challenge I solved
 | Category | Challenge |
 | --- | --- |
 | Web Exploitation | [Sanity Check](/Sanity%20Check/)
-| Web Exploitation | [Fortune Cookies](/Judul%202/)
+| Web Exploitation | [Fortune Cookies](/Fortune%20Cookies/)
 | Web Exploitation | [-](/Judul%203/)
 | Web Exploitation | [-](/Judul%204/)
