@@ -12,5 +12,5 @@ List Challenge I solved
 | --- | --- |
 | Web Exploitation | [Sanity Check](/Sanity%20Check/)
 | Web Exploitation | [Fortune Cookies](/Fortune%20Cookies/)
-| Web Exploitation | [-](/Judul%203/)
+| Web Exploitation | [Haiku](/Haiku/)
 | Web Exploitation | [-](/Judul%204/)
